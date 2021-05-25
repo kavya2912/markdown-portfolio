@@ -1,12 +1,12 @@
  # Skills
  
- Below is a list of my technical skills.
+ Below is a _list_ of my **technical skills**.
  
  ## Programming languages
  - Ruby
  - Go
  - Python
 
-#Collaboration
+## Collaboration
 - Github
 - Git
